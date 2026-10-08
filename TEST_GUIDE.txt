@@ -1,0 +1,12 @@
+AI CODE REVIEW ASSISTANT - TEST PROJECTS
+
+01_code_quality -> test Code Quality
+02_duplication -> test Code Repetition / Duplication
+03_structure -> test Classes & Code Structure
+04_ui_ux -> test UI/UX
+05_all_categories -> test Everything
+06_clean_project -> test false-positive control
+07_file_filtering -> test supported/ignored/unsupported file handling
+
+To test through the application, put each project into its own GitHub repository and use that repository URL.
+For each test, verify the actual findings against the known intentional issues described in each README.
